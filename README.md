@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Cabral</h1>
 <h3 align="center">I'm graduating in Computer Engineering, and I will change the world with technology. 🗺️</h3>
 
-- 🔭 I’m currently working on **PAVAP - ONG**
+- 🔭 I’m currently working on **PAVAP Website - ONG**
 
 - 🌱 I’m currently learning **AI´s**
 

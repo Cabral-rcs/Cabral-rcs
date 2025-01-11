@@ -1,3 +1,5 @@
+![Profile](https://github.com/user-attachments/assets/b211b98d-c5f7-4ae5-b4dd-fe800766f1df)
+
 # 💫 About Me:
 🔭 I’m currently working on PAVAP Website - ONG<br><br>🌱 I’m currently learning AI´s<br><br>💬 Ask me about Technology, Programming languages and AI´s<br><br>📫 How to reach me rafael.rcs.cabral@gmail.com<br><br>⚡ Fun fact I Love Badminton
 
@@ -10,8 +12,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cabral-rcs&theme=dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+### ✍️ Dev vision
+![Citação](https://github.com/user-attachments/assets/20c57623-078f-417f-aa82-48cc265702f1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--

@@ -4,7 +4,7 @@
 🔭 I’m currently working on PAVAP Website - ONG<br><br>🌱 I’m currently learning AI´s<br><br>💬 Ask me about Technology, Programming languages and AI´s<br><br>📫 How to reach me rafael.rcs.cabral@gmail.com<br><br>⚡ Fun fact I Love Badminton
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-cabral-453231270/) 
 
 # 💻 Tech Stack:

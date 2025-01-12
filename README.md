@@ -15,7 +15,7 @@ A clean and organized environment is essential for my routine. Clutter distracts
 
 # 👑 Developing Social Impact
 ## How i am doing this??
-I reached out to a local ONG and offered to create an informational website on a volunteer basis. My goal was to help amplify their cause, provide them with a platform to reach more people, and spread awareness to drive greater impact in the community. Traduza
+I reached out to a local ONG and offered to create an informational website on a volunteer basis. My goal was to help amplify their cause, provide them with a platform to reach more people, and spread awareness to drive greater impact in the community.
 # 🗺️ Status:
 🚀 In progress
 # 🏠 Home page:

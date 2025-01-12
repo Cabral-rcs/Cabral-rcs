@@ -27,7 +27,7 @@ I reached out to a local ONG and offered to create an informational website on a
 
 
 # 🌐 Socials:
-<a href="https://www.linkedin.com/in/rafael-cabral-453231270/">![LINKEDIN (2)](https://github.com/user-attachments/assets/5eb536e9-f191-4b7d-84a3-552ec69d96eb)</a>                                        <a href="[https://www.linkedin.com/in/rafael-cabral-453231270/](https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent?compose=VpCqJZMHpgWhDdHHJqDbJVLcrBKQJVlSkdqBTXhjCJjStgWBbLQwbfBCMCvDcFKBlLrbJcQ)">![Gmail (1)](https://github.com/user-attachments/assets/aecf7052-51b2-4a55-bca4-6311fbf83624)</a><br><br>
+<a href="https://www.linkedin.com/in/rafael-cabral-453231270/">![LINKEDIN (2)](https://github.com/user-attachments/assets/5eb536e9-f191-4b7d-84a3-552ec69d96eb)</a>                                        <a href="rafael.rcs.cabral@gmail.com">![Gmail (1)](https://github.com/user-attachments/assets/aecf7052-51b2-4a55-bca4-6311fbf83624)</a><br><br>
 
 ![Hello Word - gif](https://github.com/user-attachments/assets/cd865564-f6b2-4384-aeac-a97d3f7a347b)
 
